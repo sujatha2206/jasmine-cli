@@ -1,4 +1,4 @@
-//testing
+
 function Calculate(inputText){
 const expression=/\+|\-|\*|\//;
 const numbers=inputText.split(expression);
